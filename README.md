@@ -37,7 +37,7 @@
 
 <img align="left" alt="Tanmay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tan-thita&show_icons=true&hide_border=true" />
 
-[website]: https://meban8.wixsite.com/corvettesage
+[website]: https://meban8.wixsite.com/corvie
 [college]: https://www.cuchd.in/
 [Facebook]: https://www.facebook.com/tanmay.banik
 [Twitter]: https://twitter.com/Tanmay_Banik

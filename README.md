@@ -1,7 +1,7 @@
 ### Hi there, I'm [Tanmay][website] 👋
 
 ## I'm a Student
-- 🔭 I’m a graduated from [Chandigarh University][college]!
+- 🔭 I’m graduated from [Chandigarh University][college]!
 - 🌱 I’m currently learning various new technologies.
 - 🥅 2020 Goals: To learn and grow as much as i can.
 - ⚡ Fun fact: I love esports and open world games and like to explore the world.
